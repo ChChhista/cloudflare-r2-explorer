@@ -3,6 +3,6 @@ compatibility_date = "2022-08-09"
 main = "src/index.js"
 
 [[r2_buckets]]
-binding = 'BUCKETNAME'
+binding = 'collection'
 bucket_name = 'collection'
 preview_bucket_name = 'collection'
