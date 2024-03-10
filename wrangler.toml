@@ -4,5 +4,5 @@ main = "src/index.js"
 
 [[r2_buckets]]
 binding = 'BUCKETNAME'
-bucket_name = 'BUCKETNAME'
-preview_bucket_name = 'BUCKETNAME'
+bucket_name = 'collection'
+preview_bucket_name = 'collection'
